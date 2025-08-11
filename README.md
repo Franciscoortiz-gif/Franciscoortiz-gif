@@ -8,11 +8,10 @@
 <a href="https://github.com/Franciscoortiz-gif/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoortiz-gif&layout=compact&langs_count=8&card_width=320" />
 </a>
-###
 
 <img align="right" height="150" src="https://github.com/Franciscoortiz-gif/Franciscoortiz-gif/blob/main/octocat-1754883308421.png"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
