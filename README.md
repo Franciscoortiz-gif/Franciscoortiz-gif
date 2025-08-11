@@ -8,6 +8,12 @@
 <a href="https://github.com/Franciscoortiz-gif/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoortiz-gif&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/Franciscoortiz-gif/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Franciscoortiz-gif&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Franciscoortiz-gif/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Franciscoortiz-gif&repo=convoychat" />
+</a>
 
 ###
 
