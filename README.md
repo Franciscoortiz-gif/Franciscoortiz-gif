@@ -3,10 +3,10 @@
 ###
 
 <a href="https://github.com/Franciscoortiz-gif/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Franciscoortiz-gif&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Franciscoortiz-gif&theme=radical" />
 </a>
 <a href="https://github.com/Franciscoortiz-gif/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoortiz-gif&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoortiz-gif&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 <img align="right" height="150" src="https://github.com/Franciscoortiz-gif/Franciscoortiz-gif/blob/main/octocat-1754883308421.png"  />
