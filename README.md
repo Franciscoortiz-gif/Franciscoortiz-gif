@@ -3,7 +3,7 @@
 ###
 
 <a href="https://github.com/Franciscoortiz-gif/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Franciscoortiz-gif" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Franciscoortiz-gif&theme=dark" />
 </a>
 <a href="https://github.com/Franciscoortiz-gif/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoortiz-gif&layout=compact&langs_count=8&card_width=320" />
